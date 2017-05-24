@@ -1,4 +1,6 @@
 # controllable-raindrops
+<a href="http://htmlpreview.github.io/?https://github.com/chrstnb/controllable-raindrops/blob/master/index.html" target="_blank">preview here</a>
+
 jquery ui + js raindrop generator controlled by a slider
 header for personal site
 
